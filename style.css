@@ -1,0 +1,9 @@
+.copy_right_footer {
+    position: fixed;
+    color: khaki;
+    bottom: 0;
+    width: 100%;
+    background-color: firebrick;
+    line-height: 2;
+    text-align: center;
+}
